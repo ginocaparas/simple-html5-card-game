@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>CodePen - Simple HTML5 Memory Card Game - now with cats!</title>
+  <link rel='stylesheet' href='https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css'><link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div id="game-board" class="d-flex justify-content-center flex-wrap"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-12 text-center">
+        <button id="reset-button" class="btn btn-primary my-3">Reset Game</button>
+        <div id="match-counter" class="font-weight-bold">Total Matches: 0</div>
+        <div id="point-meter" class="point-meter font-weight-bold">Points: 0</div>
+      </div>
+    </div>
+  </div>
+  <div id="congratulations" class="congratulations-screen">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <p class="mb-4">
+            <img src="https://media.tenor.com/BlPdiP_-9nYAAAAC/chibi-cat-dance-chibi-cat.gif" border="0" style="width:200px;">
+          </p>  
+          <p class="mb-4">Congratulations!</p>
+          <p id="total-points" class="font-weight-bold">Total Points: 0</p>
+          <button id="congratulations-reset-button" class="btn btn-success my-3">Play Again?</button>
+        </div>
+      </div>
+    </div>
+  </div>
+<div id="fail" class="congratulations-screen">
+    <div class="container">
+      <div class="row">
+        <div class="col-12">
+          <p class="mb-4">
+            <img src="https://i.gifer.com/i1Q.gif" border="0" style="width:200px;">
+          </p>  
+          <p class="mb-4">Better luck next time!</p>
+          <p id="total-points" class="font-weight-bold">Total Points: 0</p>
+          <button id="fail-reset-button" class="btn btn-success my-3">Try Again?</button>
+        </div>
+      </div>
+    </div>
+<!-- partial -->
+  <script src='https://code.jquery.com/jquery-3.5.1.slim.min.js'></script>
+<script src='https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.3/dist/umd/popper.min.js'></script>
+<script src='https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js'></script><script  src="./script.js"></script>
+
+</body>
+</html>
