@@ -1,5 +1,7 @@
 # A Simple HTML5 Memory Card Game 
 
+**Play it here:** https://codepen.io/ginocaparas/full/eYxpodG
+
 So I created this fun little game on October 27, 2023. Here's the thing: I suck at Javascript. Like, I can't actually write code from scratch -- I just try to learn as much as I can from existing lines of code that others have written.
 
 Fortunately there's ChatGPT.
