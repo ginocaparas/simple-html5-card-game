@@ -15,7 +15,7 @@ PS. My son loves playing it. Can you beat his high score of 10 points?
 1. Pick two cards.
 2. If they match, you get 2 points.
 3. If they don't match, you lose 1 point.
-4. Repeat until all cards have been matched with each other. Highest possible score is 24!
+4. Repeat until all cards have been matched with each other. Highest possible score is 12!
 
 # Iterations
 
