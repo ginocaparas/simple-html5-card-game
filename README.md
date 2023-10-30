@@ -27,10 +27,11 @@ You can see all the iterations here:
 - V1: Barebones, no art, no point system. https://codepen.io/ginocaparas/pen/dyaYrrj
 - V2: More cards, plus a new point system. https://codepen.io/ginocaparas/pen/RwvWObd
 - V3: Latest version. Added new artwork, moved to Twitter Bootstrap framework, revised Game Over screens. https://codepen.io/ginocaparas/pen/eYxpodG
+- V3.1: New card back!
 
 # Disclaimers
 
 - This was made purely for educational purposes.
 - It's most likely unoptimized, especially the JS.
 - All images are hosted on Imgur.
-- Images are NOT mine. I do not own any of the images. Card back image is from Hearthstone - &copy; Blizzard. Cat images are taken from various sources on the internet.
+- Card back image is generated via AI. Cat images are taken from various sources on the internet.
