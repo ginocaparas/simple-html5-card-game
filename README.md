@@ -2,9 +2,9 @@
 
 **Play it here:** https://codepen.io/ginocaparas/full/eYxpodG
 
-So I created this fun little game on October 27, 2023. Here's the thing: I suck at Javascript. Like, I can't actually write code from scratch -- I just try to learn as much as I can from existing lines of code that others have written.
+So I created this fun little game on October 27, 2023. Here's the thing: I'm not really a game dev, and I suck at Javascript. Like, it's hard for me to actually write code from scratch -- I just try to learn as much as I can from existing lines of code that others have written.
 
-Fortunately there's ChatGPT.
+Fortunately there's ✨ **ChatGPT**. ✨
 
 I had a very productive back-and-forth with ChatGPT -- first I asked it to create a simple memory game in HTML5. Then, I spruced up the CSS, added cat pics, used Twitter Bootstrap for the HTML framework, and then... there we have it. A fully working memory card game made in HTML5 and Javascript.
 
