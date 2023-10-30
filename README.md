@@ -2,7 +2,7 @@
 
 **Play it here:** https://codepen.io/ginocaparas/full/eYxpodG
 
-So I created this fun little game on October 27, 2023. Here's the thing: I'm not really a game dev, and I suck at Javascript. Like, it's hard for me to actually write code from scratch -- I just try to learn as much as I can from existing lines of code that others have written.
+So I created this fun little game on October 27, 2023. Here's the thing: I'm not really a game dev, and I suck at Javascript. Like, it's hard for me to actually write code from scratch -- I just try to learn as much as I can from existing lines of code that others have written. Which is silly, since I'm a front-end designer, I should know these things, right?
 
 Fortunately there's ✨ **ChatGPT**. ✨
 
