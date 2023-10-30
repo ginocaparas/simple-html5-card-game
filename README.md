@@ -6,7 +6,11 @@ So I created this fun little game on October 27, 2023. Here's the thing: I'm not
 
 Fortunately there's ✨ **ChatGPT**. ✨
 
-I had a very productive back-and-forth with ChatGPT -- first I asked it to create a simple memory game in HTML5. Then, I spruced up the CSS, added cat pics, used Twitter Bootstrap for the HTML framework, and then... there we have it. A fully working memory card game made in HTML5 and Javascript.
+I had a very productive back-and-forth with ChatGPT -- first I asked it to create a simple memory game in HTML5. Then, I spruced up the CSS, added cat pics, used Twitter Bootstrap for the HTML framework, and then... there we have it. A fully working memory card game made in HTML5 and Javascript. 
+
+Of course I had to modify a lot of things -- ChatGPT's code wasn't perfect, and there were a lot of customizations that needed to be done, i.e. image behavior on card flip, refined CSS animations, image links and orientations, etc.
+
+Hope you guys enjoy. Let me know what you think! Send me a note via https://www.ginocaparas.com.
 
 PS. My son loves playing it. Can you beat his high score of 10 points?
 
