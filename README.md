@@ -28,6 +28,7 @@ You can see all the iterations here:
 - V2: More cards, plus a new point system. https://codepen.io/ginocaparas/pen/RwvWObd
 - V3: Latest version. Added new artwork, moved to Twitter Bootstrap framework, revised Game Over screens. https://codepen.io/ginocaparas/pen/eYxpodG
 - V3.1: New card back!
+![new cardback image](https://i.imgur.com/XOsTmo9.png)
 
 # Disclaimers
 
