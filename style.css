@@ -1,4 +1,4 @@
-.card {
+    .card {
       width: 100px;
       height: 150px;
       text-align: center;
@@ -7,7 +7,7 @@
       float: left;
       perspective: 1000px;
       transition: transform 0.5s;
-      background: url('https://i.imgur.com/wYj8le5.png');
+      background: url('https://i.imgur.com/XOsTmo9.png');
       background-size: cover;
       background-position: center middle;
 border: 0;
